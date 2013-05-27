@@ -1,11 +1,14 @@
 
 # Live wallpaper packages
 PRODUCT_PACKAGES := \
-    LiveWallpapers \
-    LiveWallpapersPicker \
-    MagicSmokeWallpapers \
-    VisualizationWallpapers \
-    librs_jni
+    librs_jni \
+
+
+#    Gallery3D 
+#    LiveWallpapers \
+#    LiveWallpapersPicker \
+#    MagicSmokeWallpapers \
+#    VisualizationWallpapers \
 
 # Publish that we support the live wallpaper feature.
 PRODUCT_COPY_FILES := \
